@@ -4,7 +4,7 @@ Pragmatic Approaches to TDD, UITesting and Playground-Driven Development
 
 &nbsp;
 
-It took me a while to immerse myself in the UITesting world - mostly because my fundamental IDE is in a permanent state of flux. Xcode makes so many tedious tasks a button click away, but you can still find yourself at a loss when it loses track of where it is...
+It took me a while to immerse myself in the UITesting world - mostly because my fundamental IDE is in a permanent state of flux. Xcode makes solving so many tedious tasks a button click away, but you can still find yourself at a loss when it loses track of where it is...
 
 I don't want you to become discouraged and give up - as I did more than once...  So I hope these **"Celebrity Testimonials"** will help convince you to "stay the course" and break through those initial roadblocks to successful UI testing and **Test-Driven Development**
 

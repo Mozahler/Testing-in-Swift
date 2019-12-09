@@ -1,6 +1,6 @@
 # Testing-in-Swift
 Pragmatic Approaches to TDD, UITesting and Playground-Driven Development
-#  Pragmatic UITesting, Playgrounds and TDD
+# UITesting, Playgrounds and TDD
 
 &nbsp;
 
@@ -9,6 +9,22 @@ It took me a while to immerse myself in the UITesting world - mostly because my 
 I don't want you to become discouraged and give up - as I did more than once...  So I hope these **"Celebrity Testimonials"** will help convince you to "stay the course" and break through those initial roadblocks to successful UI testing and **Test-Driven Development**
 
 &nbsp;
+
+### Apple Has Excellent Videos on UITesting  
+
+WWDC 2015 Session 406 https://developer.apple.com/videos/play/wwdc2015/406/  
+WWDC 2018 Session 403 https://developer.apple.com/videos/play/wwdc2018/403/  
+WWDC 2019 Session 413 https://developer.apple.com/videos/play/wwdc2019/413/  
+ 
+&nbsp;  
+Here's 406 on YouTube (in case you don't have a developer account)  
+&nbsp;
+WWDC 2015 Session 406 https://www.youtube.com/watch?v=7zMGf-0OnoU  
+
+Obviously, these presenters know what they're talking about!  If you're already convinced that UITesting makes sense for you, then this is the best place to start.  
+&nbsp;  
+
+However, if you need a bit of encouragement, then check out what others have to say about the topic ...
 
 ## Coding Celebrities and What They Have to Say About UITesting
 &nbsp;
